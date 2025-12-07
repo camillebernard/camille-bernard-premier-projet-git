@@ -1,4 +1,4 @@
 # camille-bernard-premier-projet-git
 Premier projet git pour apprentissage
 
-J'apprends à modifier le code et envoyer ma modif au repo distant. 
+J'apprends à modifier le code et envoyer ma modif au repository distant sur github.
